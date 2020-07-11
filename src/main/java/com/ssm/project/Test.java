@@ -1,4 +1,4 @@
-package com.ssm.project.controller;
+package com.ssm.project;
 
 public class Test {
    public void test(){
