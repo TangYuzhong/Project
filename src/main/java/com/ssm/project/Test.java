@@ -1,4 +1,4 @@
-package com.ssm.project.controller;
+package com.ssm.project;
 
 public class Test {
    public void test(){
@@ -6,7 +6,8 @@ public class Test {
    }
 
     public static void main(String[] args) {
-
+        System.out.println("wdnmd");
     }
+
 
 }
